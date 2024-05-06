@@ -1,1 +1,20 @@
-[ ]
+[
+  {
+    "name": "Sample 1",
+    "file": "samples/o-fi-romantic-guitar-smooth-melody_100bpm_F_minor.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Sample 2",
+    "file": "samples/bluesy-serenade-electric-elixir_83bpm_A_minor.wav",
+    "bpm": "120",
+    "loop": "1m"
+  },
+  {
+    "name": "Sample 3",
+    "file": "samples/rhodes-serenity-bass-flow_79bpm_A_major.wav",
+    "bpm": "120",
+    "loop": "1m"
+  }
+]
